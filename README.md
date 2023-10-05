@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi 👋, I'm a PhD in Macau University of Science and Technology, Macau, China. My research interests focus on action/gesture recognition, sign language recognition/translation and skeleton-based action generation. I have been steadfastly dedicated to making my unique contributions to the ever-evolving field of computer vision. Feel free to contact me via zhou.benjia0228@gmail.com or 21098536ia30001@student.must.edu.mo.
+![Benjia Zhou's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhoubenjia&hide=commits,prs,contribs) 
+
+- 🔭 My [HomePage](https://zhoubenjia.github.io/benjiazhou.github.io/)
+- 🔭 My [Goolge Scholar](https://scholar.google.com/citations?user=yAEKSn0AAAAJ&hl=zh-CN&oi=ao)
+
 
 <!--
 **zhoubenjia/zhoubenjia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
