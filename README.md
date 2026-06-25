@@ -1,4 +1,17 @@
-### Hi 👋, I'm a PhD in Macau University of Science and Technology, Macau, China. My research interests focus on action/gesture recognition, sign language recognition/translation, multimodal pre-training and skeleton-based action generation. I have been steadfastly dedicated to making my unique contributions to the ever-evolving field of computer vision. Feel free to contact me via zhou.benjia0228@gmail.com or 21098536ia30001@student.must.edu.mo.
+# Hi, I'm Benjia Zhou 👋
+
+I am an **Assistant Professor at Beijing Institute of Technology, Zhuhai**. Previously, I was an **AIGC Research Scientist at Tencent GY-Lab**. I received my Ph.D. in Artificial Intelligence from Macau University of Science and Technology.
+
+My research focuses on intelligent video analysis, spatio-temporal representation learning, multimodal learning, and AI-generated content. I have published more than 15 papers in leading journals and conferences, including **IEEE TPAMI, IEEE TIP, IEEE TCSVT, CVPR, ICCV, AAAI, and ACM Multimedia**.
+
+## 🔬 Research Interests
+
+- Intelligent video analysis
+- Spatio-temporal representation learning
+- Multimodal learning
+- Sign language understanding and translation
+- AI-generated content (AIGC)
+--------
 ![Benjia Zhou's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhoubenjia&hide=commits,prs,contribs) 
 
 - 🔭 My [HomePage](https://zhoubenjia.github.io)
